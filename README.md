@@ -59,6 +59,7 @@ cd cifar100/
 bash vicreg_gating.sh
 
 ```
+Likewise rest of the 
 
 ### KNN - Evaluation 
 ```shell script

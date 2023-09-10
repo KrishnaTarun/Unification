@@ -9,11 +9,14 @@ In this work we present a novel perspective on the interplay between the SSL and
 
 ## Standard Results
 
+
 ### Quantitative 
+Experimental results on across different data-set on various target budgets. We report Top-1 linear evaluation accuracy averaged over 5-runs.
 
 ![](figure/Table.png)
 
 ### Qualitative
+Learned channel distribution through  gating module.
 
 ![](figure/conditional.png)
 

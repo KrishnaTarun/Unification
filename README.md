@@ -9,7 +9,8 @@ In this work we present a novel perspective on the interplay between the SSL and
 
 ## Standard Results
 
-<h3 style="text-align: center;">### Quantitative </h3>
+### Quantitative 
+
 ![](figure/Table.png)
 
 ### Qualitative

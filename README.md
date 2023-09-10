@@ -48,11 +48,15 @@ cd ./Unification
 
 ```shell script
 
+cd bash_files/pretrain/
+
 # ImageNet-100
-bash bash_files/pretrain/imagent100/vicreg_gating.sh
+cd imagent100/ 
+bash vicreg_gating.sh
 
 # CIFAR-100
-bash bash_files/pretrain/cifar100/vicreg_gating.sh
+cd cifar100/ 
+bash vicreg_gating.sh
 
 ```
 

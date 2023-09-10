@@ -71,7 +71,7 @@ bash knn.sh
 
 # CIFAR-100
 cd cifar100/ 
-bash vicreg_gating.sh
+bash knn.sh
 
 ```
 ###TODO citation bibtex

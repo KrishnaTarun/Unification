@@ -1,0 +1,13 @@
+{
+    "0.4_separate_bn": {
+        "token_with_flag_0": {
+            "epoch=499.ckpt": 67.02,
+            "flops": {
+                "flops": 790533888.0,
+                "flops_per": 43.59013748168945,
+                "flops_reduction": 0.564098596572876,
+                "flops_orig": 1813561344.0
+            }
+        }
+    }
+}

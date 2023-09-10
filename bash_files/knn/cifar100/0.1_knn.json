@@ -1,0 +1,44 @@
+{
+    "0.1": {
+        "token_with_flag_0": {
+            "epoch=499.ckpt": 55.14,
+            "flops": {
+                "flops": 129618576.0,
+                "flops_per": 18.423233032226562,
+                "flops_reduction": 0.8157676458358765,
+                "flops_orig": 703560448.0
+            }
+        },
+        "token_with_flag_1": {
+            "epoch=499.ckpt": 54.05
+        }
+    },
+    "0.1_separate_bn": {
+        "token_with_flag_1": {
+            "epoch=499.ckpt": 54.92
+        },
+        "token_with_flag_0": {
+            "epoch=499.ckpt": 54.66,
+            "flops": {
+                "flops": 128657056.0,
+                "flops_per": 18.28656768798828,
+                "flops_reduction": 0.8171343207359314,
+                "flops_orig": 703560448.0
+            }
+        }
+    },
+    "0.1_separate_bn_warmup_gate": {
+        "token_with_flag_1": {
+            "epoch=499.ckpt": 55.59
+        },
+        "token_with_flag_0": {
+            "epoch=499.ckpt": 55.38,
+            "flops": {
+                "flops": 143449248.0,
+                "flops_per": 20.3890438079834,
+                "flops_reduction": 0.7961095571517944,
+                "flops_orig": 703560448.0
+            }
+        }
+    }
+}

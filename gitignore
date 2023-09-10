@@ -1,0 +1,5 @@
+../bash_files/knn/cifar10/*.json
+../bash_files/knn/cifar100/*.json
+../bash_files/knn/imagenet100/*.json
+../bash_files/knn/stl10/*.json
+

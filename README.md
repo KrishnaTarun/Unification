@@ -49,10 +49,10 @@ cd ./Unification
 ```shell script
 
 # ImageNet-100
-bash bash_files/pretrain/imagent100/simsiam.sh
+bash bash_files/pretrain/imagent100/vicreg_gating.sh
 
 # CIFAR-100
-bash bash_files/pretrain/cifar100/simsiam.sh
+bash bash_files/pretrain/cifar100/vicreg_gating.sh
 
 ```
 

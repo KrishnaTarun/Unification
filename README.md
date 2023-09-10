@@ -7,6 +7,16 @@ In this work we present a novel perspective on the interplay between the SSL and
 
 ![](figure/main_figure.png)
 
+## Standard Results
+
+### Quantitative 
+![](figure/Table.png)
+
+### Qualitative
+
+![](figure/conditional.png)
+
+
 ## Getting Started 
 
 ### Requirements

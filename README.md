@@ -40,8 +40,8 @@ We recommand using conda env to setup the experimental environments.
 pip install -r requirements.txt
 
 # Clone repo
-git clone https://github.com/KrishnaTarun/SSL_DGC.git
-cd ./SSL_DGC
+git clone https://github.com/KrishnaTarun/Unification.git
+cd ./Unification
 ```
 
 ### Pre-Training

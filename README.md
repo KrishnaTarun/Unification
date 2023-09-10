@@ -61,7 +61,7 @@ bash vicreg_gating.sh
 ```
 Like-wise rest of the model can be trained for other dataset as well.
 
-### KNN - Evaluation 
+### KNN-Evaluation 
 ```shell script
 cd bash_files/knn/
 

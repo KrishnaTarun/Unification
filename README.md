@@ -59,12 +59,20 @@ cd cifar100/
 bash vicreg_gating.sh
 
 ```
-Likewise rest of the 
+Like-wise rest of the model can be trained for other dataset as well.
 
 ### KNN - Evaluation 
 ```shell script
+cd bash_files/knn/
+
 # ImageNet-100
-bash bash_files/knn/imagent100/knn.sh
+cd imagent100/
+bash knn.sh
+
+# CIFAR-100
+cd cifar100/ 
+bash vicreg_gating.sh
+
 ```
 ###TODO citation bibtex
 

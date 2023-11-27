@@ -76,4 +76,16 @@ bash knn.sh
 ```
 ###TODO citation bibtex
 
+#### Please consider citing our paper if you find this work useful for your research.
+ 
+ ```
+ @inproceedings{Krishna_2023_BMVC,
+  author = {Krishna, Tarun and Rai, Ayush K. and Drimbarean, Alexandru F and Arazo, Eric and Albert, Paul and Smeaton, Alan and McGuinness, Kevin and Connor, Noel O},
+  title = {Unifying Synergies between Self-supervised Learning and Dynamic Computation},
+  booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+  publisher = {BMVA},
+  year = {2023},
+}
+ ```
+
 

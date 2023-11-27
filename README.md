@@ -74,7 +74,6 @@ cd cifar100/
 bash knn.sh
 
 ```
-###TODO citation bibtex
 
 #### Please consider citing our paper if you find this work useful for your research.
  
